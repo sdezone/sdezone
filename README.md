@@ -6,7 +6,7 @@ Hi! I'm computer engineer and keen on back-end front-end and mobile application 
    Dapper, Linq, TSQL Java, Spring Boot, Quarkus, Jpa, Hibernate Mssql, 
    Mysql, Postgresql, MongoDB
 
-Below graph is just for testing and not correct yet however this will also be updated.
+Below graph is just for testing and not completed yet however this will also be updated.
 
 ```mermaid
 graph LR
