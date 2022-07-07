@@ -4,7 +4,7 @@ Hi! I'm computer engineer and keen on back-end front-end and mobile application 
 
  - C#, Asp.Net MVC, Web Api, Wpf, Asp.Net, React, Angular, Vue, EF,   
    Dapper, Linq, TSQL Java, Spring Boot, Quarkus, Jpa, Hibernate Mssql, 
-   Mysql, Postgresql, MongoDB
+   Mysql, Postgresql, MongoDB,nodejs,golang
 
 Below graph is just for testing and not completed yet however this will also be updated.
 
