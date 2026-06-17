@@ -1,11 +1,6 @@
 # Welcome to SdeZone Profile!
 
-Hi! I'm computer engineer and keen on back-end front-end and mobile application development. I will update this profile information 
-
- - ...
-
-Below graph is just for testing and not completed yet however this will also be updated.
-
+Hi 
 
 
 <div>
